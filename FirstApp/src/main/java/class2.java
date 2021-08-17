@@ -11,5 +11,8 @@ public class class2 {
 		int sum;
 		sum=a+b;
 		System.out.println("sum is"+sum);
+		
+		System.out.println("Display method");
+		
 	}
 }
